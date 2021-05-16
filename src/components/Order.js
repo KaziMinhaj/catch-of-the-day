@@ -1,14 +1,17 @@
-import React, { Component } from "react";
+import React from "react";
+import { formatPrice } from "../helpers";
 
-class Order extends Component {
-  renderOrder = (key) => {
+class Order extends React.Component {
+  renderOrder = key => {
     const fish = this.props.fishes[key];
     const count = this.props.order[key];
-    const isAvailable = fish.status === "available";
+    const isAvailable = fish && fish.status === "available";
+    // Make sure the fish is loaded before we continue!
+    if (!fish) return null;
+
     if (!isAvailable) {
       return (
         <li key={key}>
-          {" "}
           Sorry {fish ? fish.name : "fish"} is no longer available
         </li>
       );
@@ -20,7 +23,6 @@ class Order extends Component {
       </li>
     );
   };
-
   render() {
     const orderIds = Object.keys(this.props.order);
     const total = orderIds.reduce((prevTotal, key) => {
@@ -37,7 +39,7 @@ class Order extends Component {
         <h2>Order</h2>
         <ul className="order">{orderIds.map(this.renderOrder)}</ul>
         <div className="total">
-          Total
+          Total:
           <strong>{formatPrice(total)}</strong>
         </div>
       </div>
