@@ -1,3 +1,4 @@
+import PropTypes from "prop-types";
 import React from "react";
 import base from "../base";
 import sampleFishes from "../sample-fishes";
@@ -10,6 +11,10 @@ class App extends React.Component {
   state = {
     fishes: {},
     order: {},
+  };
+
+  static propTypes = {
+    match: PropTypes.object,
   };
 
   componentDidMount() {
