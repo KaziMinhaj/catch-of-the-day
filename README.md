@@ -13,3 +13,11 @@
 * Hosting
   * Firebase
   * Netlify
+
+* Features :
+  * A user can pick a store
+  * User can create a store or Enter into a existing store
+  * If user create an new store than he will be the owner of this store
+  * Then user can add, remove and modify any item
+ 
+  
