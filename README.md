@@ -14,7 +14,7 @@
   * Firebase
   * Netlify
 
-*  ### Features :
+### Features :
   * A user can pick a store
   * User can create a store or Enter into a existing store
   * If user create an new store than he will be the owner of this store
