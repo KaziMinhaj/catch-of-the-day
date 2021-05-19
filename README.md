@@ -6,6 +6,9 @@
 
 ![Screenshot 2021-05-19 181831](https://user-images.githubusercontent.com/68158190/118812788-509b5e80-b8d0-11eb-882e-c84a27657160.jpg)
 
+![Screenshot 2021-05-19 192519](https://user-images.githubusercontent.com/68158190/118820826-70cf1b80-b8d8-11eb-8d81-34b0f4c5671a.jpg)
+
+
 ## Technology used : 
 * JavaScript 
   * React.js
