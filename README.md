@@ -10,6 +10,8 @@
 ## Technology used : 
 * JavaScript 
   * React.js
+* Authentication
+  * Firebase
 * Hosting
   * Firebase
   * Netlify
