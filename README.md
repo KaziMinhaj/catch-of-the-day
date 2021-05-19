@@ -1,3 +1,5 @@
+** Catch of the day - Its a simple react.js project, I have implemented my React.js knowledge such as  class component, functional compoenet, bidirectioanl dataflow, state, props, lifecycle methods, hooks, react router  **
+
 
 [Live Preview](https://catch-of-the-day---master.web.app/)
 
@@ -23,10 +25,4 @@
     * Then user can add, remove and modify any item
  
   
-*This text will be italic*
-_This will also be italic_
 
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
