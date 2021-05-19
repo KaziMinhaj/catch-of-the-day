@@ -15,7 +15,7 @@
   * Firebase
   * Netlify
 
-### Features :
+## Features :
   * A user can pick a store
     * Store name will be auto generated and user can customize the store name as well
   * User can create a store or Enter into a existing store
