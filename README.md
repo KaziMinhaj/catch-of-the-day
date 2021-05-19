@@ -1,5 +1,6 @@
 **Catch of the day - Its a simple react.js project, I have implemented my React.js knowledge such as  class component, functional compoenet, bidirectioanl dataflow, state, props, lifecycle methods, hooks, lifting up state, Conditional Rendering, react router. For authentication I used firebase authentication and also used firebase realtime database.**
 
+### Please click [here](https://catch-of-the-day---master.web.app/) to see the project live
 
 [Live Preview](https://catch-of-the-day---master.web.app/)
 
