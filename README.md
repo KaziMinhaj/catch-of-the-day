@@ -10,7 +10,7 @@
 
 
 ## Technology used : 
-* JavaScript 
+* UI 
   * React.js
 * Authentication
   * Firebase
