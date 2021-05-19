@@ -16,8 +16,10 @@
 
 ### Features :
   * A user can pick a store
+    * Store name will be auto generated and user can customize the store name as well
   * User can create a store or Enter into a existing store
-  * If user create an new store than he will be the owner of this store
-  * Then user can add, remove and modify any item
+    * If user create an new store than he will be the owner of this store
+  * User Can Login using Facebook and github
+    * Then user can add, remove and modify any item
  
   
