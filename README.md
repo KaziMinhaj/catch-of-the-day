@@ -1,7 +1,5 @@
 
-[Live Preview 1](https://catch-of-the-day-coral.vercel.app/)
-
-[Live Preview 2](https://60a50009266912f0f29d6473--catch-of-the-day-master.netlify.app/)
+[Live Preview](https://catch-of-the-day---master.web.app/)
 
 ## Screenshot of the Project:  
 
