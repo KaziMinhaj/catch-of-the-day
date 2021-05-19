@@ -8,7 +8,7 @@
 ![Screenshot 2021-05-19 181831](https://user-images.githubusercontent.com/68158190/118812788-509b5e80-b8d0-11eb-882e-c84a27657160.jpg)
 
 ## Technology used : 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+* React.js
+* Hosting
+  * Firebase
+  * Netlify
